@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Bridges",
+  "age": 30,
+  "address": {
+    "street": "Nemis Way",
+    "city": "Kojwahse",
+    "state": "NH",
+    "zip": "96773"
+  },
+  "contact": {
+    "phone": "(707) 455-5281",
+    "servicePhone": "800858454"
+  },
+  "birthday": "1967-05-28T09:17:34.746Z",
+  "ip": "142.147.134.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Irkeden losa zor omulut ciresop rulbo pepezoli fahbum mohsu upsob koca cufadufe aj befov mutat zuimhas abinu widoc. Ubenuk vutocjaw ovahemgi ofonogini eva oj tilencel sus huweigu winva sep eta. Hawujirog bed alheseti fuinilul birepwet cowku ces behocbu hor kihoc bokuz vipkidis fulupaiz.",
+    "bio": "Balate pubow benanozo boowaso vi enoputok nohjemo iva azsiig cothagtuj taj haigfo. Wir gadoto wovut riseleb ukibubow sa lidi mo baivi ve hiw ezvahi kepeafo ha cowni. Weflovzu vopul tamam galihfa ve dagun zajvos komes ufo za tuljiw ritu no muw nompow lat gin."
+  },
+  "apiKey": "d1f7378fc4faa1e70fada6b653e3c7f33f7a76706d3d9d90b325002b130779f0",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
