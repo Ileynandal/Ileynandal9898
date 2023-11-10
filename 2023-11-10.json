@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Weaver",
+  "age": 30,
+  "address": {
+    "street": "Dizej Pike",
+    "city": "Basitun",
+    "state": "MN",
+    "zip": "81590"
+  },
+  "contact": {
+    "phone": "(906) 466-5132",
+    "servicePhone": "800679452"
+  },
+  "birthday": "1961-11-27T18:38:31.958Z",
+  "ip": "145.90.130.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Idesulel denbilaz ifujuwoz uf cer hauk ponuj vifemza agsa metzi don cob api won jip iwelop enfihkan. Fafu abzorsif zimzuler goje panulfoc eddebha sah ogu tube ek acedieca tazradaz da re mofu rehhu. Bubnu igkug je ze elficdu fo eredoho kiwri beri fuuvo epotih umab idzocmav lisic. Umuridod kahco jigof diwhu dojkoc to ekogeik izlolha weznub adbomsim bar husgo.",
+    "bio": "Cotes jeriz fijzec hucki ikbad goptamul jilcoghos bogufo ifanoki dotevunu adave momad beseh en. Ta lunmuzkim vejawe jeumkof tem ames rus sa pekcajho ul vi omatu pidgof ad ussez nige ahuew abufu. Bip upwev tis emapoka gono jiw bamuhaav rohkeniw keh apreve juk ozmo ragow sidfolus didose urbozlu cuk. Iruuvarid ihadoje sutode nipaso uhjuliri ubfiada loewneb wiswa calwu po covsijja muceura hu. Luerzot ji ho cewudaw boksowmi omuuzose iz norwa zitodfik goas bot za ba pivev bah ciudpa."
+  },
+  "apiKey": "69123865ee1def1b818f3dc03dad47b0572d5b75478d27d8f5c4adc67c52dcb9",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
