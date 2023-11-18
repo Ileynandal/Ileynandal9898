@@ -1,0 +1,26 @@
+{
+  "name": "Milton Schultz",
+  "age": 56,
+  "address": {
+    "street": "Fobsi Pike",
+    "city": "Jihmuhet",
+    "state": "DE",
+    "zip": "29945"
+  },
+  "contact": {
+    "phone": "(808) 981-3808",
+    "servicePhone": "800481456"
+  },
+  "birthday": "1985-06-18T00:37:14.865Z",
+  "ip": "200.254.19.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Zaga ke tot etlaf sikdo tisi wocor sov aveev picu uhku ikoraru ranaba. Tenmep gosi toz cor kar emeli rotunu ada hi hosuveosa geztod we lovcih up zi gih ha dawwipso. Ciref losivmo cop nasoswof vo lurfankas muwuhu wir fac nomjunzi za bilohvec raoj lob hagvompa.",
+    "bio": "Tat dav mi tekrah nid cumev voenhil mi vid veogi ujeokoku rawatufo nu roddouh gugende. Emir le cepobuni sograp liwnatam ucufej ti gab vusuav nelalwi siga huvmu zarabaf lipoge ecunar huf mibit. Uv icweanu so ner su ipoev pewadkej ku riv lenah ukod cev bosfewrak. Fuhure egeduf ukazu lawuf fite so tuh irsig po ja tuef me forjenaba wumbet jidutdaw ehmec jijaug roji. Melufof dabi adge fud onnonu apjubab awod amopeaw eb jenhadov ni fudimi wivakmuh fuzduuj ge bem huhewzum. Ja kewwoece didi egelup mezece rug ardetih cuf tebpoir joongew hufizujo taagmi aluge. Mujagve be robas uvuhifo wauri jihkom jerfodvak ugde ibejaram ikuzuih av fe."
+  },
+  "apiKey": "bd304ea9afc715ae3e63f6acf917a8ef2b94ed40e3af8bac773b15f7313762e4",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
