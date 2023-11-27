@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Sherman",
+  "age": 31,
+  "address": {
+    "street": "Zedwa Drive",
+    "city": "Nespeim",
+    "state": "MN",
+    "zip": "71415"
+  },
+  "contact": {
+    "phone": "(545) 465-2048",
+    "servicePhone": "800233887"
+  },
+  "birthday": "1972-10-21T21:03:07.728Z",
+  "ip": "9.211.210.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Peenitor ka gicvi lermi pi jumvadem iligimuf za ugifgi gatgan citep jitiloz jata rupkoc lieb edoka ace ibsi. Okup rur zeij zow gof nuzuw ma vilawu bendoje acviwnu ohu giigubo ihtur. Ju peje ruese mez tuklafudu wil mek liehaodo vu imvoek es nevji. Nutuul ah hagoj akarotej cer dibweetu tak kumaf sumjonfeb jusak beat logluzgok tic kazon doez. Bafatki pim esi sunle negludzo lefubreg kima wavegwu eda olialurun rula raosa neibafi urebo wijdewhaf ge dibhal. Dud ku ben dezneket ne sib gadfazco sucu atve gehe ge ko uliavwi kumje udo gizifumi.",
+    "bio": "Dipotdo fu ennup kun ju imtomiba poficna hudu jijka ka esukpa woc. Rame pit vel dikumic fag lodegol wopidluk ma rerjin nukava tufis zagucev parzir. Odeduinu ka buni cenuwi caaplob picibefa zi bucsumu isapusa bo wiapo ga nuw ze amove tiwjedut ik. Sa suj gekuen kupupe azeze jabieko vabepbew an meonje val kab esmat fuh ti. Bo lotoaw naefo ajiogja akehunoj kohezhat lohten ezisavo haih cefukig rici ha. Si vej wowimit tu cuv el tom atwuefi onu nal abo golfa onocata buvficwi pak forati fiskogu ajrabil. Bafpuw pe gaejdi ko comib vadta tikavan cijido pefwe dadlueji jifek azuanikuv co vuzda attofih."
+  },
+  "apiKey": "4d74d0ef983242b924c30bc85d9d2276525398b038b475aec41b81250acb7926",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
