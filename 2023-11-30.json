@@ -1,0 +1,26 @@
+{
+  "name": "Peter Todd",
+  "age": 24,
+  "address": {
+    "street": "Feviru Place",
+    "city": "Zogaoh",
+    "state": "NC",
+    "zip": "16040"
+  },
+  "contact": {
+    "phone": "(807) 274-6034",
+    "servicePhone": "800221924"
+  },
+  "birthday": "1990-12-08T19:45:49.544Z",
+  "ip": "63.125.167.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Cubovmi kol epeas kif te aro nuh na sapko nunsu ma oca la. Catjuzuj ej retrowfag uk kilso fif fikuhi cijigje re mem muk tut no buvo dis vos fiepma. Duwiggo ficeji abi hu bet uruow toda car bu fu dakteguc hebim.",
+    "bio": "Raddouh loawat runpaka lunon defikugef afohu fapo takente vof ba pafit jiis unu ejebi ha juodseb do wo. Zem dugewro zel ha go eca gas cal eto losvoti pu zoftele rukuji zejsikmu. Luna buhje zuk hujlozef miw fosan rog konin sicel pu fupidkoh ip."
+  },
+  "apiKey": "3b0ce6b4f3a81867b3713816729eb993cad45c9d0f935e4e5c7d3ac7f4c5a92a",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
