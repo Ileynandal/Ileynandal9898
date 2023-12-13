@@ -1,0 +1,26 @@
+{
+  "name": "Katie Gregory",
+  "age": 37,
+  "address": {
+    "street": "Rocan Point",
+    "city": "Redfape",
+    "state": "CA",
+    "zip": "81403"
+  },
+  "contact": {
+    "phone": "(818) 338-8418",
+    "servicePhone": "800859883"
+  },
+  "birthday": "1977-05-10T11:14:47.686Z",
+  "ip": "125.223.127.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Dooburuk giniuno mumtud dage tiz ta ro zej sonow ufezit rumpujak nuv ofu cengu cieva gaitmo pezohvon ebeaho. Unanewdi jujacde ri kanav panman osufat kidfofe kev golwatzo ma he ne mabecu. Tampekeb cosin ivgumma amze naw enukeaz oli homah lowjaku vuhuka alhom uruvi puhuvakiv ged. Olce zedo fom ubpudup enho jafzela wa hasguka lani umiwimo koez cahtapod jusbucahu sohid zisun. Ke wa na kior saruva zunagam berko dacmu wefasot govfudru efduri cikimaj uko lifev ibiot nu idukuciw da.",
+    "bio": "Gawer noc so febdoofu uw humocgow eko vi wiznim ar kefmerfu cehde dulgo ca ubotob imjifa butotop. Zok ajefu zo wehpiran zah le cu opesonuj emebvuf cu pal sa gu suvsirra un jib. Iwoged hitpug dij le huban fodsig dijihkut uti zol omta ver nanel ephuwtuh ve vinuku lis. Ter depi aki faglusefi mikgu jukguhe ifmufvuz torra buv zu racu ci lej riko nasugma fe. Illi banta deg vicoli sefak jicewi zood zovegji haj kocavon ogocaje ba lazuh kutni. Alo vovluvo ofulup bihene ahpojfo ki zimedo amihiwoj zit jugsi didwi bozoj rofir riap tuvep. Ic noni not cujbouvu cek izifufnag sulilfe ediwo hartoppi dahso jerro eh behej occit tiro odi luvokodo."
+  },
+  "apiKey": "ce2029559b8f8596563aaf6416208c368b0e97acf329d29d54528e063be6d93f",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
