@@ -1,0 +1,26 @@
+{
+  "name": "Billy Barrett",
+  "age": 60,
+  "address": {
+    "street": "Caprog Grove",
+    "city": "Zufpisav",
+    "state": "SC",
+    "zip": "81296"
+  },
+  "contact": {
+    "phone": "(506) 662-6405",
+    "servicePhone": "800479173"
+  },
+  "birthday": "2006-03-28T08:55:03.461Z",
+  "ip": "3.225.116.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Citti fikrodtu zilil ilaja ijtacvu hap esoeznek jec zige girvor pamnan ohcawzam kekavru eluditge. Ukoewuma nil won ruzip purnuz oteutza mato zecusdit obreltuf reze fokavjag kac uj tif. Genjonfe wiik vi pouwuvus eciufbod fa ligno mipeg hacki lekec juge ib. Ov ke wi cacvuc licok tafzil iccug we vule uro do ru fi cunav.",
+    "bio": "Jaro oci hizug re vuuce gujon homcomgaz ki rerune vodkow ele zedlelreb idumag let vah busil uwa. Wow re captowic ni dimowujof lewlace letcu mevlanew kaluf gepme timgirrig le jaudeper vinbemos re su. Hati cusu enhujep jovo sazzoren um urdul ke sisacde em vimsaheh kifvaif laz nogfud suw esu."
+  },
+  "apiKey": "d520df7b76b4da65804cefcf05f263c580e0b18ebb89ba012ab420934df71bf1",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
