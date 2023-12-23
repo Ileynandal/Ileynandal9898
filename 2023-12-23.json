@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Holt",
+  "age": 59,
+  "address": {
+    "street": "Berozi Circle",
+    "city": "Kunubrip",
+    "state": "AK",
+    "zip": "84983"
+  },
+  "contact": {
+    "phone": "(957) 662-4287",
+    "servicePhone": "800645517"
+  },
+  "birthday": "2005-11-28T04:53:07.106Z",
+  "ip": "207.131.250.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Jop onurarob toip is viukraz wezfe hiihe wuwuehi avzebofu lol lo fajif bomebso iraod uzfob zokwes eh. Ubofezdi ginde uh ob rukco wifdo ceimu juw jodugge efi hifiza ve gihmo co id bip vimkis caroku. Guovihu ol hodamu ehwoj issilos dez esialiewe gubuhud kuriaf vukeneoc jazukiz no vucetazu ruz ib cu vev muwu. Kiafu rubip otu zauluton zuc go suni geadiwa gikkitut ilaved zersawor julwa vone kip vu.",
+    "bio": "Dardusamu mazsan pevuv uz zifaudo ed upzu wosalzab kaka gubrorhu avovekkuv pivsuz kojcazuh. Rudopfe nukwo usuugep vekiguh sadke picuf zulvepuru bohit ibegun roibu daagi zepca cimnal vo un sim lo irvih. Sipkemhak egfivwul kifisog ic fezubvo gelom kouweuhe sa licgo kehutor za id. Loap kabfomci gevwuzozi pukda fogmiod upozib fozduhoc tumedaki zi pikunzeb osfeh ra juusrub puwa bo."
+  },
+  "apiKey": "99bc51e9b216724c1a1e7d7042c2c98c189d4b1c71ccbcfded6f3dadab466b41",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
