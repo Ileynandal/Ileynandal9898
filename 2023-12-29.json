@@ -1,0 +1,26 @@
+{
+  "name": "Carl Mitchell",
+  "age": 40,
+  "address": {
+    "street": "Nomemi Grove",
+    "city": "Zeateve",
+    "state": "NY",
+    "zip": "68487"
+  },
+  "contact": {
+    "phone": "(388) 605-9194",
+    "servicePhone": "800662462"
+  },
+  "birthday": "1966-07-31T12:41:28.752Z",
+  "ip": "131.24.250.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Del cuva la urezichu isekes gaan cocaru zazzuju vehohoki ija irbuhab we esfaj. Wok ogvul code akrif soh de pi en hicgoci ripiblak pap odrag rekukaw wopucdep. Gigtemro cofu pozut birje pin zares mo nihkoak joawli cojnas nouhi ig vitpi.",
+    "bio": "Obevu kijivu zeez warahmad sus kuk cekbeh nesgig ta ahosenmer hafa biifewi nuzitin tij. Wofso eba awowajsu vi bubaweto jowko pu dadaju tokjoveb tuhnokbah noc kamfeki hi ti. Zomwupam goztil ku sa li seb olsohew rumusepom aghef befgum izuleove nugkac ecofoeme edirohkil ew jehcogof newtu gafij."
+  },
+  "apiKey": "219025ba941125f36e4a77b7f69e6c00d1167c0966deeb503be21a69ef45bb11",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
