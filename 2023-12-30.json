@@ -1,0 +1,26 @@
+{
+  "name": "Fanny Welch",
+  "age": 31,
+  "address": {
+    "street": "Luec Center",
+    "city": "Fokamde",
+    "state": "NM",
+    "zip": "53453"
+  },
+  "contact": {
+    "phone": "(231) 663-1052",
+    "servicePhone": "800681383"
+  },
+  "birthday": "1978-12-11T02:21:02.086Z",
+  "ip": "133.178.4.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Muigopud mi dibezvu maci rubwa la uhpi ovhap mucotu hubcufzab gupepe go ijatisil ha annerus ku. Tapur co fuke fu atsurve infize afboha labiz oloibulu ririeco koevoji jo epeusbap. Bin fompujku patgoj adominowa ma jiwo ukabeg feppofe na janalu zoic okorazjob sa zubbazu.",
+    "bio": "Bebi ihsewjih iz mitiswu mowe vi nupa jubzasvu mobat gugi ocigab jenabo odo. Buzfog roluzpug woelbi epijme alejojhen vem riro covef navok camvub gecsuhiri rub. Abu huhubfa zebeofo darsiic wuwer huwmujag nounagu higtuc wuwasion botubara wo dalliti je nohik. Hufu jekes oscum eberebpe kefegi hoslorfac hapsiw za rubne ci pugumam ob no."
+  },
+  "apiKey": "fc1dd856bec68a5e449108da99f2b39f6b6467ed5e93a522ebdb8074b7c35919",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
