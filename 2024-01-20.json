@@ -1,0 +1,26 @@
+{
+  "name": "Jim Olson",
+  "age": 37,
+  "address": {
+    "street": "Duac Lane",
+    "city": "Mupenbo",
+    "state": "UT",
+    "zip": "76711"
+  },
+  "contact": {
+    "phone": "(527) 740-5803",
+    "servicePhone": "800758346"
+  },
+  "birthday": "1976-12-28T15:57:55.194Z",
+  "ip": "224.129.179.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Afta weflinrac ujbuv tidzoaj lehib felo opo olapa eto webmamhi ha wut vowodle mij. Uhdu jahakak si mu nabetsi fazkepu palowu cirkifaw si lurace ahaonuife viz dehjazka rut. Cen owzemir za cehus hajug uwnug jawif nemru im homope fiwceh up oga. Jeg ga uceronate si kotwa rovbovev umukufab fuzlinbe mun culerfe wufo ele. Regoca me ca hez lucvicjun tuluwna ziniho ocare vifas utu of wepug egjo men it sabja doone rehi. Jew legivi bez egeb buc pujdu giehu ha firabve nocap mi me salha vo.",
+    "bio": "Coletre sad memrag gejonjin narehid gupadlu di uda du or carapu rirle oragegve. Gip bu uja silmuh do covhufal jan ve wab nivzav zitofa parpo pa cazasric. Camna wom ri zutuwepo den eg om ufduncu hogad herudfeg akcis meni un."
+  },
+  "apiKey": "15bdb4ec7ceff389671d53b351f47e1ae0e84deb03186a5b526102315fff445e",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
