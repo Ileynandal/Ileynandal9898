@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Adams",
+  "age": 57,
+  "address": {
+    "street": "Weil Place",
+    "city": "Rigozu",
+    "state": "OR",
+    "zip": "86924"
+  },
+  "contact": {
+    "phone": "(315) 414-9006",
+    "servicePhone": "800434694"
+  },
+  "birthday": "2000-11-21T15:15:30.591Z",
+  "ip": "187.61.15.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Obuz ler ma si gakivzup gu to owe julif nefnef ju por lak. Feleb nusavive vus for ecatzav boapa no oj wivigef ra negrudi vahiwe kitisukuj. Lis pohazwo hu go bafho ne puw sa ra sevto okugew hopolog.",
+    "bio": "Am reil uno cuttu fu akime ha tevtonu huzibi aneulki ege jeh davfic. Egokuse pav pukleil pajuwuwuf manpatit fivru papetrif pu la id co ufnartew. Dero tutaek hi hevat taabo fam ko kutsep nik muwleb jonetu bohfujgug. To ofka lawjetzan somiak tapuica ce nokca zizgekmaw edo nu no ono dep ta dasipiw gimila. Icwebe wabluru loowpub sar mew sondo tumu tocum ebaer seh me ijobok. Oju fuda gezujov cocude ficbuljet agazu agce recevar gelo urof pim arogi afouz fej pomufes tolojke."
+  },
+  "apiKey": "50ea4114f7a08a3a8a1dce9a8ba4b1fe3ea980dfcec0b9a9e579e014ea7dc6e9",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
