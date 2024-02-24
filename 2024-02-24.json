@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Spencer",
+  "age": 54,
+  "address": {
+    "street": "Cirin Boulevard",
+    "city": "Alvalo",
+    "state": "OK",
+    "zip": "97504"
+  },
+  "contact": {
+    "phone": "(626) 962-9749",
+    "servicePhone": "800535671"
+  },
+  "birthday": "2006-09-07T23:29:09.931Z",
+  "ip": "112.125.52.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Fufze paghu vuzjerriw rav woide cof lakul zuzujhe limra vu lo ezi olaha duhiha cocram pedrojes ge. Liroj zinugni ga awoop ta ro tekago cumlulnil riibdu na ufvugi zuncah denbo lajus selhezik. Docan cihzod wafu pa neruf jemduzci rukikal colrut lo iliz ba goz rugeis kitepne esugufur. Mez zidaegi husa ogalimvi gocabo cew paksuszi rurji cis lifzotga nup ibkele juz takugino wuwfaeb luh re fecojatos.",
+    "bio": "Rafes mav updutir ikomij mokkoeju kawva huvomo jutjighuv ake sowpole moregup gu ba. Jut giciiw ziztavozi wovwefov sil wampe it pil muofiho zojto kekmi vaof. Del jo amicudef cihtobvu ojigal tokikzuc dih mewuta gisbu su ta orgaw nakjib kodotap janovi meptudjal. Gutab ogagi siddiklup cibibap etobi opumol bodib eleowate ha wezdurho hib sa mop wat. Uslo di nanmerro bu mop cunu eta evaolewi vaf jaw bedpotasu fel fetilnec ricgo idietero duic du."
+  },
+  "apiKey": "b3b0bf7bbdeb82de5e3d9f8f3f5f55c2844e53da0822ec8d65f41b6bbf55a8db",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
