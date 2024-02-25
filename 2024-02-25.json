@@ -1,0 +1,26 @@
+{
+  "name": "Marc Berry",
+  "age": 53,
+  "address": {
+    "street": "Sapo Court",
+    "city": "Wegnunga",
+    "state": "AZ",
+    "zip": "63595"
+  },
+  "contact": {
+    "phone": "(521) 861-1788",
+    "servicePhone": "800971641"
+  },
+  "birthday": "1990-02-09T10:33:44.036Z",
+  "ip": "28.63.216.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Dimbo delteek arpuzu luso mejtorla gul jusduman arohu motze roirow sevutje daj cener rep. Gibju noocidor pi cicuw po el tawpozzat kavozu pofoz za pegik wofa. Jelpal hofmedkid nebeehu nez gak torol cof fatom tenefji mespuruc riwab ocmud ahiif hebri mikoti.",
+    "bio": "Bawijoc dorilo kof tewol fo afajo bovugme ceb cojcad izuzagla opoehwe ga vihvilevu hozigam umwebug. Jah reja nasso didavke fokojubud todac odnaf id giawoc sahi ziew ludkout. Arhetfe hehuohi lulawu tolzoad ik hafcuza tukonuz lu wijatwa efnav ojitima cugve gepacib dekvot. Sahe ufu us memkiguz ivjiz vavsa ju muwzig ga ofpigu dintima iviroec hegov ra ifi owwun. Fokifa rudru gugjumji eloce dar cijbiji daboma eribedhi zirlamzut saprali ilmekik ha vuk vuvet baud watic fuhbes. Ku lerevso kujtel ihaveffi iful vugor juldapif siifios mog wuh disep bopfinir. Ulviwpor papomo adogurcu temlav fepabu jok ir wef esoluos wuggo dof kimo jumadkeb op sunzumo jiha."
+  },
+  "apiKey": "391bfe8d25b943780a90fd6cbced8fc39d4776cd4adafa3fa1e235ce750fa19b",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
