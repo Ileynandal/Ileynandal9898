@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Snyder",
+  "age": 42,
+  "address": {
+    "street": "Gahma Lane",
+    "city": "Warepus",
+    "state": "AL",
+    "zip": "34242"
+  },
+  "contact": {
+    "phone": "(769) 837-3642",
+    "servicePhone": "800169672"
+  },
+  "birthday": "1964-08-11T22:29:24.180Z",
+  "ip": "56.212.239.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Jiwi wohiace jo gi fisuegi lecrak dufu weremuta saed avha lozuhfep hesfa tutruj feanse cig ogpak vikarwi za. Wuutwep vowama ok me puc mapap iztizij saw daz obifuh zasvug nutensir fetrovzem fudbis. Umrubo zat pepufi so surzuju arocaddol cebi cug puokko cic gesob ca vespa new mo.",
+    "bio": "Jeusekol sagbo her kuvtof sipal uwe sil idecojej pinsirgek ma obeot vocfatufe obuzma. Demjopuru bagjuh pe totiva utkowwat ere elo upucijef zot mi subwukeb lil jeho. Wuizjek fehac kufrowja iku buakpa alihaswad enubes anwek pazahro unhi ikumuife zeduhip duz gidoc. Ganat iko un tu edavavli mib nekucu esu ka vebasobab jejki gij webo zut. Lalgumca jukrijij sava vid wun taz me pec rih zozehu sacu kacpiwhu zoclogbos jin don goob. Wesi iremumlek ruzuik kaamuzul azo etemuco fijpo maf zuniv wawumeh pusro egber vaunri uwaazi senub pu."
+  },
+  "apiKey": "8caeb7c2ebd7ef6c2f57c5c77716d3fa93cbd62d1e13318750a9aea2803543fe",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
