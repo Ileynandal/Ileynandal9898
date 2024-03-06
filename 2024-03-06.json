@@ -1,0 +1,26 @@
+{
+  "name": "Alvin Newton",
+  "age": 19,
+  "address": {
+    "street": "Ehere Glen",
+    "city": "Tomjalvak",
+    "state": "HI",
+    "zip": "77340"
+  },
+  "contact": {
+    "phone": "(546) 673-2953",
+    "servicePhone": "800268735"
+  },
+  "birthday": "1984-11-06T17:25:55.744Z",
+  "ip": "212.12.19.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Udfo ve bakli cir kol renugko jokone zecmobjo nahit uhmobgi sajkepfa neop fakkurec gale rujik om pekemu ugiulma. Ki fa sar lu taz wewhesde zu pubu mojik kata cetzi pibuju. Mapnohid mus lurmasuka ehoop cuj kavrof puod rojbifed inebaz ocdovo se robampa ziwu hakjucub eru dojzeru kakerhoj.",
+    "bio": "Os asbage ulmof bozre majobpat luwal ci li ladli simor jewce rindeh naola riosoneh sijdavkig. Lodogono ohfi botic ode sivco dinoipa foc me rioko dikef puloveb nikhapim si. Zub ji gujcu vuej wishoga upmugur lacip mizsapa jacuvdon lioj novhail ri dafob bemvok gignilab. Jafeb on opatewim vuntafu co tinipal wungi jojfada lutpor ne ze ocidewo."
+  },
+  "apiKey": "3cb99be1c61829c407b35a1277e1a750ba22a4a11f28e33c1d68159638683ec3",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
