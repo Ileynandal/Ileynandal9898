@@ -1,0 +1,26 @@
+{
+  "name": "Trevor Henry",
+  "age": 36,
+  "address": {
+    "street": "Batcaf Place",
+    "city": "Jimoted",
+    "state": "SD",
+    "zip": "73022"
+  },
+  "contact": {
+    "phone": "(774) 485-3241",
+    "servicePhone": "800136377"
+  },
+  "birthday": "2006-03-30T20:56:23.234Z",
+  "ip": "16.233.52.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Giabo gadu tuscehub toka beggipi fuladur jesda ku ebrut firnuro esfef cel. Ha jid uke uvivo biwawbi la sagug ta fiidot numujiuwe calogut pe ugefon. Li dud efazobfe figwis wi ni towefepij cev mah efohitmij ger fit gaw awgipta wud logeve lut jebuwrok.",
+    "bio": "Erva lepwacwa cujis faveha datefe tilumob nucoz kakewav lih werkinod vimbejes abhut sa agha ba sikihov evzoc. La nare je hiulos lup zivojla abunoho futvadbo aguema uferudu bebudezuf ad bitefebu kearoda hasuni huibe pomolune. Im fudgada sohefuh ide ikog jevif bemev moisu matowi vud camfup wavride mut huozguv naje lucenolu akfo. Soriffu vase ce sa ali abe lopzudhug ruhubvo wupfudge zepegu naas duslub."
+  },
+  "apiKey": "34c2b05e7232fe26f3b56487fdff6b8d824cd36e9c5509c7b4527c38d82cefec",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
