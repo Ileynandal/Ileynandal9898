@@ -1,0 +1,26 @@
+{
+  "name": "Howard Terry",
+  "age": 19,
+  "address": {
+    "street": "Kesec Pike",
+    "city": "Ogemikuj",
+    "state": "MS",
+    "zip": "19152"
+  },
+  "contact": {
+    "phone": "(633) 667-7889",
+    "servicePhone": "800542536"
+  },
+  "birthday": "1988-08-04T03:12:16.404Z",
+  "ip": "194.195.93.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Neawibu tu heweg ja pephe pirjod vebgi lapballe dutob umato efebuwul no sis harirhuc mo uvipu eldugmo duuj. Egonrut juhir ujsiluc wegow bawreb eb ric avzu voda rijhita ikka wapzelfi. Lu gokewgi bepdira tesvihtir jad esusemi murjabzoj ebsebdec vajazwab hef re jijog kaoku cebgu ucidetis macacse.",
+    "bio": "Ekefi beze ban gafoali acirucat lictifu iguragbit ba amzi aho weigi iloki emeho nah luzhizu. Iw obseva befoze wapije majiwo bitejaju woz zacte pow gep gihhur emised afemen gadic madnous. Murso wobamev zeji zaadcog sowetoke wem osagumoh lusriuv wolete kumej movo jepuzbuk obgi ukcopes awo pawvilbet vavuc getrehwa. Tohodzu jubewi ogi cuciw ba ogebev sur fulmo lageb himtokgo sotni ebfupa. Rejkav rite ta nijeg okuutawu aluli tipseuvo lakivapo bu esunakci wos pigzobjag tuma vidivjak tel jel huzzida juila. Hi nin ir iw urutivsa giwuwe habto jalut kepeshin hih meso podti nuk sijipdal uz sedut levaci."
+  },
+  "apiKey": "e103fa772c76d50a11dcc379cd5494082432775d163e2adcd8b52504f1f3ca7a",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
