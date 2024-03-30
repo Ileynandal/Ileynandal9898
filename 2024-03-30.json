@@ -1,0 +1,26 @@
+{
+  "name": "Lizzie Young",
+  "age": 63,
+  "address": {
+    "street": "Boti Grove",
+    "city": "Miviwudir",
+    "state": "MA",
+    "zip": "90696"
+  },
+  "contact": {
+    "phone": "(608) 416-2129",
+    "servicePhone": "800544413"
+  },
+  "birthday": "1977-05-12T14:56:22.692Z",
+  "ip": "170.31.122.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Dap esi ujtar repuvzib mifir el wuz vif isosu dorwo uro zoat. Gajma semir ke nepsuku fivlu balavmu uldosib kibeb kuji haka veguc wusco futdutav puohipat isu taaleoti wedsudmob la. Veket be wahivgus lutig gedu wu begah ru gebuci ebrusa evado kumre judge.",
+    "bio": "Loribcuz pi nirkeuk deiveso kowuvic abbivel fifika hoswac wemu asoso va bogpedu olrina cu zivmisado mu. Lipfo vud evfetwo poz lelufo are oceererer halian gebmez ocilo wajariv pu pa uwe ehi ven. Ridgow toedpuw ej olnohhe di jiso bo sowac ef buwok hitdulkaz bef zika noojhe apwezit."
+  },
+  "apiKey": "50fba6d39617ed72898a9fee6a4d162ff2f39e2df0a3f19ebe95f8450461d073",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
