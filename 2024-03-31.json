@@ -1,0 +1,26 @@
+{
+  "name": "Madge Simpson",
+  "age": 26,
+  "address": {
+    "street": "Caude Boulevard",
+    "city": "Gonenez",
+    "state": "MA",
+    "zip": "82075"
+  },
+  "contact": {
+    "phone": "(816) 643-4706",
+    "servicePhone": "800135767"
+  },
+  "birthday": "1961-05-23T19:25:05.569Z",
+  "ip": "206.182.236.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba zogihje nac ocianegic un os zada lo co puspikaw telot sawlud mu wemjo wu zevedi rib. Mesuha cerbu ih kavook wadaf lida duv cihremak ep giwe butoze esiheh zu ijnaho. Inato luccow popreh luzeg ewo remeuka otten napgi ri gugzoin bimne kowuz bawan. Ruscufa di watag rum fud sodsud hosu gisvu mis zu nidlume to eblijgik gepo macine gabogo anirol.",
+    "bio": "Sidpac diducla idu woc rawuvih pafib wocmiciw seese nij kamewku su ziapoep kofigcin fip ul wipu vusoc epuil. Uraelibuw ga giv jelveafa deloz ufeuz sagzizpub sihibur wathesja azcigu buk ez fowupu faj cefje. Et sup nofaag sal hek sol evavagiko lo gav betwaj epi oj zivaz of kec ikiijasu em."
+  },
+  "apiKey": "3116d7b8a30ecaf3180440548b7f97c45a075833c48624b114a505cc94bfa0be",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
