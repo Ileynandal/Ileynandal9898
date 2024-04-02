@@ -1,0 +1,26 @@
+{
+  "name": "Ora Nichols",
+  "age": 38,
+  "address": {
+    "street": "Pojde Boulevard",
+    "city": "Sifwudne",
+    "state": "VA",
+    "zip": "49696"
+  },
+  "contact": {
+    "phone": "(203) 462-7372",
+    "servicePhone": "800527235"
+  },
+  "birthday": "1977-10-16T05:16:59.101Z",
+  "ip": "162.97.69.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Ho upti bardolpic mifez gowedcob hiro pinal zijoz la congot zegsu ziknojbol isemeneg buciv kat bodetin. Sothutjuj pu ecovas benkap ditvuhevu mocuj tonumu hijuik meb vi wut ga unem nab. Kog fokafe wi ba hopivo biget rajjig hig sutzob nuhig afe mojne. Cabmajsan osurug toemucak uv mug cu wop mi rug vamakana ve ovdu wad zociluip.",
+    "bio": "Licozese nu ob zitovsed iforon nogdobibe kisu emfi nuow setgin moupfe ges oc das saceji toodi. Othadmus ongab detor nofu bievuzo nu jaamo gavpeh soukzu tovif lijordaf cac voreejo ha ocizejsan udwefu ocsif sinmob. Comfa ahjon pajgujem ajbupmaz do umaak pigcewuv usjol kezubim uhedi okibu norahco wiezbu wafpeip av veafi."
+  },
+  "apiKey": "b9ec3060b27ae3937075fbc278393631e27d02f9b53cfc424920b49779f63015",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
