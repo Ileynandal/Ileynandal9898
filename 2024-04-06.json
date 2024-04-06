@@ -1,0 +1,26 @@
+{
+  "name": "Sally Gonzales",
+  "age": 54,
+  "address": {
+    "street": "Neso Point",
+    "city": "Widhuggu",
+    "state": "ND",
+    "zip": "14556"
+  },
+  "contact": {
+    "phone": "(900) 401-8242",
+    "servicePhone": "800525917"
+  },
+  "birthday": "1964-08-11T16:34:22.807Z",
+  "ip": "72.101.6.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Ajubediv latidmu rihrumna narehahi nasajjo ewhu ulsagi ulotov rud me dievizuc za miwu fi nurrota. Itaape la rafsullo gantewu jornov efpog bofred johigez togoda ponuwop dac sin neike toha cut ug ihmog supfu. Pigo ekitut cecgeji igufel lob zozibzi lum pigija is newgehpo kipmavi no orriam vod ma. Leb fiksudene vicaw manmufho duhepu zurroglek wi siminujuk za tof tiem unuzonda fu su.",
+    "bio": "Fa miemu wudtud colduku op posojra so fonirfu hikkuwe pa pozki juvguw jeom jab jafnijo ati riul non. Vumici ugane kecwojo leh vafacjoj ni nin ivpo uhdenkiv ju jomluwu roztuji zale jag leihowe. Damfaw jum cu tu dilevet nino na zi cocosot fohu hoh nufmonbet."
+  },
+  "apiKey": "a08ff6d9deae585eb2b0504b2477e8a3bcf996c92a9ae05dec56cd8a4e21943f",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
