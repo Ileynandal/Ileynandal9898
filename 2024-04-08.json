@@ -1,0 +1,26 @@
+{
+  "name": "Jason Patrick",
+  "age": 24,
+  "address": {
+    "street": "Citag Park",
+    "city": "Dekrair",
+    "state": "HI",
+    "zip": "21305"
+  },
+  "contact": {
+    "phone": "(533) 584-1336",
+    "servicePhone": "800575672"
+  },
+  "birthday": "2001-01-14T08:36:40.779Z",
+  "ip": "74.131.201.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Voga fah loes fogzov tuoki ocbe lag dijzihez ewo inewi udakuwda pamefni. Ke laradewo jaafsug mimkuw ti hulhi ut ro jama acijicfuc leisbob rov visaleci. Ginakdic gawpobe gik netfet umkim bem sosbu ragubki goravkek be wadluhva pobosib ohgatit oniruf sele.",
+    "bio": "Jilab vunel dotcet hupos mazmihnul fe job sifzi juswic gowgerbif kaige samawwus por sevkahi cusso kafo didi. Osu vuzojfi hibnuzba fetjujco gu onugudu fu siop loise jowberas pon za daha ode pu daczioj tug cu. Nojijok unma ic batluwhi jo sufkov altuniv obdihu jisu ecubu veije ralzupa rage."
+  },
+  "apiKey": "18fa62a405812478319d62951c931eea7ba5ea7a13ee22cce67e55bb2884b35e",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
